@@ -22,3 +22,4 @@ Crear un modelo de machine learning de clasifiación que obtenga un score F1 may
 - Se logró un score **F1 de 0.88** con el modelo de regresión logística, **4% mejor** que el mínimo solicitado.
 - Se utilizó una estrategia de limpieza del corpus de texto que eliminara simbolos, letras repetidas más de tres veces, y letras sueltas para mejorar la predicción.
 - Se utilizó una estrategia de lematización en bloques para optimizar el rendimiento de SpaCy. 
+- En el archivo *codigo_proyecto* se puede observar el dasarrollo completo del proyecto, desde el análisis exploratorio hasta el entrenamiento de los modelos de machine learning.
